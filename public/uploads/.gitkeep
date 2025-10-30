@@ -1,0 +1,9 @@
+# Uploads Directory
+
+This directory stores user-uploaded files.
+
+## Security Notes
+- Max file size: 10MB
+- All uploads are associated with tasks
+- Only project members can access files
+- Files are automatically deleted when attachments are removed
